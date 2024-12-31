@@ -18,7 +18,7 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 Before you can run the project, make sure you have the following installed:
 
-- Python 3.x
+- Python 3.0
 - yt-dlp library
 - FFmpeg (for merging video and audio if required)
 
