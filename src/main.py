@@ -1,12 +1,12 @@
 import yt_dlp as ydl
-import Knowformat
+import knowformat
 # YouTube video link
 # link = "https://youtu.be/xC2ccYpjPHE?si=tBeqUUzvwp8-yaxG"
 link = input("Enter Link : ")
 
 allformat = input("To know the format available press Y for no press any button : ")
 if "y" == allformat.lower():
-    Knowformat.avai_format(link)
+    knowformat.avai_format(link)
 
 
 # Ask user for their choice
