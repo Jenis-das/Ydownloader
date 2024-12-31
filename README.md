@@ -28,4 +28,7 @@ To install `yt-dlp`, run the following command:
 
 ```bash
 pip install yt-dlp
+```
+###To run:
+python main.py
 
